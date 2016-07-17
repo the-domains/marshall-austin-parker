@@ -1,0 +1,28 @@
+name: Marshall Austin Parker
+favicon: null
+layout_spectrum: 0.5707640191540122
+typography_spectrum: 0.7718082491774112
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.797741922782734
+  lightness: 0.2750851144082844
+  saturation: 0.7350048921070993
+  rhythmicContrast: 0.1366789350286126
+purpose: []
